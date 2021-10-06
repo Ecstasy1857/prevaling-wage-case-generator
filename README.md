@@ -6,7 +6,15 @@ You can use this tool as a command line jar or  import the maven project in ecli
 
 Usage: 
 
-**java -jar pwd.jar startingSequence=123456 julianDate=21184 increment=10 randomIncrement=true upperBound=150 lowerBound=50**
+**java -jar pwd.jar startingSequence=123456 julianDate=21184 increment=10
+
+or
+
+**java -jar pwd.jar startingSequence=123456 julianDate=21184 randomIncrement=true upperBound=150 lowerBound=50**
+
+or
+
+**java -jar pwd.jar startingSequence=123456 julianDate=21184  randomIncrement=true **
 
 Required parameters:  julianDate, startingSequence
 
