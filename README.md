@@ -14,7 +14,7 @@ or
 
 or
 
-**java -jar pwd.jar startingSequence=123456 julianDate=21184  randomIncrement=true **
+**java -jar pwd.jar startingSequence=123456 julianDate=21184  randomIncrement=true**
 
 Required parameters:  julianDate, startingSequence
 
