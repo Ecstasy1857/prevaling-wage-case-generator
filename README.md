@@ -5,4 +5,13 @@ Generates prevailing wage case numbers based on supplied the criteria. This is u
 You can use till tool as a command line jar or  import the project in eclipse (requires java 1.8).
 
 Usage: 
-java -jar pwd.jar startingSequence=123456 julianDate=21184 increment=10 randomIncrement=true upperBound=150 lowerBound=50
+
+**java -jar pwd.jar startingSequence=123456 julianDate=21184 increment=10 randomIncrement=true upperBound=150 lowerBound=50**
+
+Required parameters:  julianDate, startingSequence
+
+Default values:
+  increment=20
+  randomIncrement=false
+  upperBound=150
+  lowerBound=20
