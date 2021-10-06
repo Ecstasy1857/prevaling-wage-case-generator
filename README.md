@@ -14,11 +14,11 @@ or
 
 or
 
-**java -jar pwd.jar startingSequence=123456 julianDate=21184  randomIncrement=true** (will use default upperBound, lowerBound)
+**java -jar pwd.jar startingSequence=123456 julianDate=21184  randomIncrement=true** 
 
 or
 
-**java -jar pwd.jar startingSequence=123456 julianDate=21184 ** (will use default increment)
+**java -jar pwd.jar startingSequence=123456 julianDate=21184** 
 
 Required parameters:  julianDate, startingSequence
 
