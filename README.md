@@ -1,5 +1,5 @@
 # prevaling-wage-case-generator
-Generates prevailing wage case numbers based on supplied the criteria. This is useful to search your pwd case number if not already known. This still involves trial and error but with this tool it becomes easier narrow down your search
+Generates prevailing wage case numbers based on supplied the criteria. This is useful to search your pwd case number if not already known. This still involves trial and error but with this tool it becomes easier narrow down your search. This tool will output a url with case numbers that you can paste in the browser to get all the results.
 
 # How To use this tool?
 You can use this tool as a command line jar or  import the maven project in eclipse (requires java 1.8).
@@ -40,7 +40,7 @@ Default values:
   upperBound=150,
   lowerBound=20
   
-  This will ouput a url that you can hit in browser to search for the cases. You can search upto 200 at a time.
+  **This will ouput a url that you can hit in browser to search for the cases. You can search upto 200 at a time.**
   
   # How to approach your search?
   
