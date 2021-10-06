@@ -14,9 +14,11 @@ julianDate =  Date on which your request is submitted in julian calender.  http:
 
 startingSequence -  6 digit random number you want to start searching from. See "How to approach your search?" for determining starting Sequence
 
-increment -  this number will added to case number to determine the next case number
+increment -  this number will be added to case number to determine the next case number and so on..
 
-randomIncrement -true/false value,   Use this to add any random number between give upperBound and lowerBound
+randomIncrement -true/false value,   Use this to add any random number between give upperBound and lowerBound, increment paramter will be ignored
+
+upperbound/ lowerBound -  a random number will be generated between upperBound and lowerBound and will be added to the case number number to generate the next case number.
 
 
 Default values:
