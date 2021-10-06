@@ -22,9 +22,10 @@ upperbound/ lowerBound -  a random number will be generated between upperBound a
 
 
 Default values:
-  increment=20
-  randomIncrement=false
-  upperBound=150
+
+  increment=20,
+  randomIncrement=false.
+  upperBound=150,
   lowerBound=20
   
   This will ouput a url that you can hit in browser to search for the cases. You can search upto 200 at a time.
