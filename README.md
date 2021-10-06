@@ -20,7 +20,7 @@ Default values:
   
   PWD numbers has format P-100-21184-333444 where P-100 is static,  21184 is the date your request was submitted in julian calendar, 333444 is the random number.
   1. You need to first identify the date on which your request was submitted. If possible get the approxiate time like morning, evening, etc.
-  2. Get any existing PWD number nearer to your date. With this it will become easier to search your case number. 
-  3. 
+  2. Get any existing PWD number nearer to your date. With this it will become easier to search your case number. For example: July 9 pwd is P-100-21187-222333 and your pwd was submitted on July 11 then your 6 digit random number would be between 23XXXX or 25XXXX.  
+  3. Use randomIncrement to generate case numbers
   
   
