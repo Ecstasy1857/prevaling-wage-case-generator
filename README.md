@@ -19,5 +19,8 @@ Default values:
   # How to approach your search?
   
   PWD numbers has format P-100-21184-333444 where P-100 is static,  21184 is the date your request was submitted in julian calendar, 333444 is the random number.
+  1. You need to first identify the date on which your request was submitted. If possible get the approxiate time like morning, evening, etc.
+  2. Get any existing PWD number nearer to your date. With this it will become easier to search your case number. 
+  3. 
   
   
