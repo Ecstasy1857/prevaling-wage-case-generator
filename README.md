@@ -10,6 +10,15 @@ Usage:
 
 Required parameters:  julianDate, startingSequence
 
+julianDate =  Date on which your request is submitted in julian calender.  http://www.longpelaexpertise.com/toolsJulian.php
+
+startingSequence -  6 digit random number you want to start searching from. See "How to approach your search?" for determining starting Sequence
+
+increment -  this number will added to case number to determine the next case number
+
+randomIncrement -true/false value,   Use this to add any random number between give upperBound and lowerBound
+
+
 Default values:
   increment=20
   randomIncrement=false
