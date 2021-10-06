@@ -6,7 +6,7 @@ You can use this tool as a command line jar or  import the maven project in ecli
 
 Usage: 
 
-**java -jar pwd.jar startingSequence=123456 julianDate=21184 increment=10
+**java -jar pwd.jar startingSequence=123456 julianDate=21184 increment=10**
 
 or
 
