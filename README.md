@@ -1,4 +1,4 @@
-# prevaling-wage-case-generator
+# prevailing-wage-case-generator
 Generates prevailing wage case numbers based on the supplied criteria. This is useful to search your pwd case number if not already known. This still involves trial and error but with this tool it becomes easier to narrow down your search. This tool will output a url with case numbers that you can paste in the browser to get all the results.
 
 # How To use this tool?
