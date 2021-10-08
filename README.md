@@ -1,5 +1,5 @@
 # prevaling-wage-case-generator
-Generates prevailing wage case numbers based on supplied the criteria. This is useful to search your pwd case number if not already known. This still involves trial and error but with this tool it becomes easier to narrow down your search. This tool will output a url with case numbers that you can paste in the browser to get all the results.
+Generates prevailing wage case numbers based on the supplied criteria. This is useful to search your pwd case number if not already known. This still involves trial and error but with this tool it becomes easier to narrow down your search. This tool will output a url with case numbers that you can paste in the browser to get all the results.
 
 # How To use this tool?
 You can use this tool as a command line jar or  import the maven project in eclipse (requires java 1.8).
@@ -24,15 +24,15 @@ or
 
 Required parameters:  julianDate, startingSequence
 
-julianDate =  Date on which your request is submitted in julian calender.  http://www.longpelaexpertise.com/toolsJulian.php
+**julianDate** =  Date on which your request is submitted in julian calender.  http://www.longpelaexpertise.com/toolsJulian.php
 
-startingSequence -  6 digit random number you want to start searching from. See "How to approach your search?" for determining starting Sequence
+**startingSequence** -  6 digit random number you want to start searching from. See "How to approach your search?" for determining starting Sequence
 
-increment -  this number will be added to case number to determine the next case number and so on..
+**increment** -  this number will be added to case number to determine the next case number and so on..
 
-randomIncrement -true/false value,   Use this to add any random number between give upperBound and lowerBound, increment paramter will be ignored
+**randomIncrement** -true/false value,   Use this to add any random number between give upperBound and lowerBound, increment paramter will be ignored
 
-upperbound/ lowerBound -  a random number will be generated between upperBound and lowerBound and will be added to the case number number to generate the next case number.
+**upperbound/ lowerBound** -  a random number will be generated between upperBound and lowerBound and will be added to the case number number to generate the next case number.
 
 
 Default values:
