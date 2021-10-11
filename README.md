@@ -2,7 +2,7 @@
 Generates prevailing wage case numbers based on the supplied criteria. This is useful to search your pwd case number if not already known. This still involves trial and error but with this tool it becomes easier to narrow down your search. This tool will output a url with case numbers that you can paste in the browser to get all the results.
 
 # How To use this tool?
-You can use this tool as a command line jar or  import the maven project in eclipse (requires java 1.8).
+You can use this tool as a command line jar (download pwd.jar) or  import the maven project in eclipse (requires java 1.8).
 
 PWD numbers has format P-100-21184-333444 where P-100 is static, 21184 is the date your request was submitted in julian calendar, 333444 is the random number.
 
